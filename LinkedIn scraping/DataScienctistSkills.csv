@@ -1,0 +1,388 @@
+name, location, skill1, skill2, skill3, name of the company ,Total headcount growth , Median tenure
+Zaid Hammouch,Morocco,None,None,None,Observatoire Marocain de la TPME,None,None
+Sarah Amar,Casablanca-Settat Morocco,None,None,None,Boston Consulting Group (BCG),5%,2.8 years
+Lamia Skalli,Morocco,Statistics,Algorithms,Data Science,AKUMEN IA (Valyans & AIOX Labs JV),None,None
+fatima ezzahra banouj,Morocco,SPSS,Analyse de données,Statistique descriptives,Attijariwafa bank,2%,5.7 years
+Hajar Falih,Morocco,Machine Learning,Business Intelligence,Agile Methodologies,OCP S.A,3%,6 years
+Hamza BENJEMRA,Casablanca Casablanca-Settat Morocco,Science des données,Apprentissage automatique,Gestion de projets,None,None,None
+Mehdi EL HAYLALI,Morocco,Science des données,Digitalisation,Big Data,IBM,1%,7.4 years
+Siham eddamiri,Drâa-Tafilalet Morocco,Natural Language Processing (NLP),Deep Learning,Semantic Web,USMBA - Université Sidi Mohamed Ben Abdellah - Fès -,12%,6.1 years
+AZMI Mohamed,Morocco,SAS,Data Analysis,SPSS,None,None,None
+Anas Barik,Morocco,Machine Learning,Data Mining,Big Data,Zango,None,None
+TAOUFIQ ELFILALI,Morocco,Python,Intelligence artificielle,Java,Novelis Co,25%,1.9 year
+Mhamed Lmarbouh,Casablanca Metropolitan Area,Python,Distributed Systems,Machine Learning,Adria Business & Technology,21%,1.4 year
+Abdelilah Makrane,Meknes Fès-Meknès Morocco,Web Development,Software Development,PHP,None,None,None
+Hicham BENBRIQA,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,Mohammed VI Polytechnic University,3%,1.8 year
+Hamza MADMOUNE,Casablanca-Settat Morocco,Python,data mining,machine learning,3WM,-0%,1.5 year
+Mohamed Hassan Oukhouya,Morocco,Data Warehouse,Python,Analyse de données,Artefact Africa,None,None
+souad abakarim,Agadir Souss-Massa Morocco,None,None,None,MARSYS,None,None
+Mehdi Nassiri, PhD,Casablanca Metropolitan Area,Modélisation statistique,Deep learning,Machine learning,PEAQOCK,None,None
+Walid Bachri,Casablanca Casablanca-Settat Morocco,Python (Programming Language),Hadoop,Machine Learning,Promy,None,None
+Assia Lafqiri,Morocco,None,None,None,INVOLYS,1%,3.6 years
+Hiba ES-SBIH,Rabat Metropolitan Area,Data Mining,Analyse de données,Apprentissage automatique,Confidential,42%,1.1 year
+Hamza Kamil,Casablanca-Settat Morocco,None,None,None,BMCI Groupe BNP Paribas,3%,5.3 years
+Mohamed Esdairi,Casablanca Metropolitan Area,Machine Learning,Data Analysis,Statistics,None,None,None
+Mouhcine Toumi,Rabat-Salé-Kenitra Morocco,Data Engineering,Problem Solving,Mathematics,Data in Seconds (DASEC),None,None
+Kamal Nachet,Casablanca Casablanca-Settat Morocco,Communication,Intelligence artificielle,Analyses Big Data,Funika home,None,None
+Mohamed Assila,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,Beewant,None,None
+Soukaina Yassine,El Jadida Metropolitan Area,Cloud Computing,Machine Learning,Hadoop,HiiT Co,2%,1.7 year
+Fatima-Zahra AKHERRAZ,Casablanca-Settat Morocco,Gestion de projet,Machine Learning,Hadoop,D-AIM,6%,2.7 years
+Mounir Boulwafa,Morocco,Machine Learning,Natural Language Processing (NLP),Python,AIOX Labs (ex IOO) - We're hiring!,None,None
+Hanane TRIY,Casablanca-Settat Morocco,Project Management,Operation research,Python,OCP S.A,3%,6 years
+Hajar Zakroum,Casablanca Casablanca-Settat Morocco,None,None,None,SALAFIN GROUPE BMCE,3%,2.4 years
+Amine Saad,Rabat-Salé-Kenitra Morocco,None,None,None,FY COMPUTING,4%,2.7 years
+Anas ABDESSAMAD,Casablanca-Settat Morocco,Pandas,Scikit-Learn,Numpy,Skytrend,None,None
+Amal Mesbah,Morocco,None,None,None,Altran,-5%,3.2 years
+Soukaina Niamane,Morocco,Data Science,Machine Learning,Deep Learning,Banque Centrale Populaire - BCP,14%,3.6 years
+Nadia Hajbane,Casablanca-Settat Morocco,SQL,comptabilité analytique,comptabilité générale,MyRestAI,None,None
+Yassine Ramekhess,Casablanca Casablanca-Settat Morocco,Machine Learning,Data Mining,Big Data,Altran,-5%,3.2 years
+Nabila Oussoulous,Rabat-Salé-Kenitra Morocco,Java,php,sql,b"Ecole Nationale Sup\xc3\xa9rieure d'Informatique et d'Analyse des Syst\xc3\xa8mes - ENSIAS",-0%,2.3 years
+Fatima Zahra EL BARCHE,Sale Rabat-Salé-Kenitra Morocco,Python,Machine Learning,Medical Imaging,b'Inria',7%,3.6 years
+Anass Hsissi (Phd),Casablanca Metropolitan Area,Research,Data Analysis,Cognitive Science,b'T\xc3\xa9nor Group',-5%,2.3 years
+Mohammed Akallouch,Fès-Meknès Morocco,machine learning,Big data analytics,data analysis,b'DEVANTEC Ing\xc3\xa9nierie',None,None
+maguette thiam,Casablanca Casablanca-Settat Morocco,SQL,Tableau,Oracle SQL Developer,b'Societe Generale',1%,5.8 years
+Mohammed SABRI,Casablanca-Settat Morocco,Machine Learning,Analyse de données,Python,b'None',None,None
+Chaimaa Fahim,Morocco,PHP,PL/SQL,Java,b'CMR-Caisse Marocaine des retraites',11%,8.1 years
+Saad MOUMAD,Casablanca Metropolitan Area,None,None,None,b'OCP S.A',3%,6 years
+hamza boulhdoub,Casablanca-Settat Morocco,Python,R,C++,b'Dell Technologies',3%,5.3 years
+Maryem Agouzzal,Temara Rabat-Salé-Kenitra Morocco,Java,Python,WordPress,b'Wedigitalpro',14%,3 years
+Mohamed Mhaouach,Miknas Fès-Meknès Morocco,Data Warehousing,Big data,Data Mining,b'Accenture',4%,4.4 years
+Omar El Attari,Meknes Fès-Meknès Morocco,None,None,None,b'depf',None,None
+Oussama FASCA,Casablanca-Settat Morocco,Big Data,Apprentissage automatique,Python,b'Tersea',6%,2.2 years
+Khadija Benkirane,Morocco,Statistics,Econometrics,Statistical Modeling,b'Attijariwafa bank',2%,5.7 years
+Ayoub AKENNAF,Rabat Rabat-Salé-Kenitra Morocco,Teamwork,Software development.,Problem solving and logical thinking.,b'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research',13%,3.8 years
+Sara Idouch,Rabat Rabat-Salé-Kenitra Morocco,Python (Programming Language),SQL,Java,b'Promy',None,None
+Hajar Gharbi,Casablanca-Settat Morocco,Java,Python,C,b'xHub',16%,1.1 year
+Khaoula KABOURI,Kénitra Province Rabat-Salé-Kenitra Morocco,Hadoop,Analyses Big Data,Maching Learning,b'Sofrecom',-0%,3.8 years
+Hamza El Makrini,Fès-Meknès Morocco,Python (Programming Language),Keras,Deep Learning,b'Soft Centre',None,None
+Nezar EL IDRISSI MOUBTASSIM,Casablanca Casablanca-Settat Morocco,Analyse de données,Gestion de projet,Machine learning,b'Sofrecom Maroc',9%,1.7 year
+Zineb Bouziane Ouartini,Morocco,None,None,None,b'None',None,None
+Fatima El Barakaz,Casablanca-Settat Morocco,MySQL,UML,machine learning,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Elhoucine MASKOUR,Agadir Souss-Massa Morocco,JavaScript,C#,Data Analysis,b'Fiverr',8%,2.2 years
+Jihane ABDELKHALEK,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b'ARMA ENVIRONNEMENT',27%,1.1 year
+Outman Lekhal,Rabat-Salé-Kenitra Morocco,None,None,None,b'AFRICAWORK',None,None
+Ghita Belkasri,Morocco,Big Data,langage R,Apache Spark,b'None',None,None
+Mehdi Abouhane,Ben Guerir Marrakesh-Safi Morocco,HTML,JavaScript,Management,b'Groupe COSUMAR',10%,3.8 years
+Hamza Bentahar,Morocco,Data Mining,Python (Programming Language),php,b'Leyton',9%,1.8 year
+Abdelhamid Techtach,Morocco,Python,Apprentissage automatique,Statistiques,b'INSEA',1%,7.8 years
+CHENTOUF Aymen,Casablanca Metropolitan Area,None,None,None,b"Ecole Nationale Sup\xc3\xa9rieure d'Informatique et d'Analyse des Syst\xc3\xa8mes - ENSIAS",-0%,2.3 years
+Saad Belaouad,Casablanca-Settat Morocco,SQL,Python (Programming Language),Java,b'Orange Maroc',2%,8.8 years
+Houda Bouraqqadi,Fez Fès-Meknès Morocco,C,Python,C++,b'None',None,None
+Loubna Jadib,Casablanca-Settat Morocco,Lean Management,data analysis,business intelligence,b'Soci\xc3\xa9t\xc3\xa9 G\xc3\xa9n\xc3\xa9rale Maroc',3%,5.2 years
+Hanane Ouhammouch,Morocco,Tableau,MySQL,Google BigQuery,b'07ZR.com',None,None
+Soufiane MHADER,Casablanca Casablanca-Settat Morocco,R,C++,Modèle de taux,b'BMCE Capital',8%,4.6 years
+chaima techa,Morocco,Python,Machine learning,Natural Language Processing (NLP),b'Big Data Analytics Centre (BIDAC), UAEU',None,None
+Houda El alami,Casablanca Casablanca-Settat Morocco,Data Analysis,Intelligence artificielle (IA),Traitement de l'image,b'None',None,None
+Lamrani Alaoui Abderrahman,Rabat Rabat-Salé-Kenitra Morocco,Statistiques,Modélisation des données,R,b"Institut National de Statistique et d'Economie Appliqu\xc3\xa9e (INSEA)",None,None
+Fatima Ezzahra EL KARKACHI,Marrakesh-Safi Morocco,HTML,C++,PHP,b'None',None,None
+Bouchra Esserti,Morocco,Business intelligence,Data Warehouse,Exploration des données,b"Minist\xc3\xa8re de l'\xc3\xa9conomie et des Finances",2%,5.7 years
+Nozha BASSA,Casablanca Casablanca-Settat Morocco,Machine Learning,Artificial Intelligence (AI),Data Analysis,b'Medias24',None,None
+Samir Dlim,Morocco,Python,R,Apprentissage automatique,b'Confidential',19%,1.5 year
+Safouan ES-SEBBAR,Casablanca-Settat Morocco,Big data,Hadoop,ETL Tools,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Abdessamad (PhD student at Med V University) Ezzou,Sale Rabat-Salé-Kenitra Morocco,None,None,None,b'Novancy One |\xc2\xa0Digital Talent Recruitment',6%,2.4 years
+Amal BELATIK,Fès-Meknès Morocco,Deep learning,Python,Informatique décisionnelle,b'None',None,None
+Rhizlane Flisse,Casablanca Metropolitan Area,Big Data,Python,R,b'EURAFRIC INFORMATION',4%,3.9 years
+sara chater,Rabat-Salé-Kenitra Morocco,Leadership,Gestion d’équipe,Microsoft Excel,b'Universit\xc3\xa9 Sidi Mohammed Ben Abdellah-F\xc3\xa8s',12%,4.1 years
+Adnane El Amrani,Casablanca Metropolitan Area,Marketing,Communication marketing,Communication interne,b'JTI (Japan Tobacco International)',2%,4.8 years
+khaoula rabih,Morocco,Python,NLP,Computer vision,b'None',None,None
+Houda El omrani,Fès-Meknès Morocco,Science des données,Intelligence artificielle,Python,b'Universit\xc3\xa9 Sidi Mohammed Ben Abdellah-F\xc3\xa8s',12%,4.1 years
+Mohammed BASTA,Marrakesh Marrakesh-Safi Morocco,None,None,None,b'None',None,None
+Hamza Hamdani,Casablanca-Settat Morocco,Machine Learning,business intelligence,Science des données,b'Facult\xc3\xa9 des Sciences Semlalia Marrakech',4%,5.7 years
+Achraf Oussidi,Rabat Metropolitan Area,None,None,None,b'The Good Data Factory',None,None
+Ahmed Tijane,Morocco,GitHub,NoSQL,Data Warehouse,b'EURAFRIC INFORMATION',4%,3.9 years
+Hajer MOUNTACIF,Casablanca-Settat Morocco,Machine Learning,Spark,Cassandra,b'S2M',3%,4.9 years
+ANAS YASSIR,Casablanca-Settat Morocco,Statiscal modeling,Machine Learning Algorithms,Data Analysis,b'None',None,None
+Meryeme Rhila,Casablanca Metropolitan Area,machine learning,Analyse de données,business intelligence,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Ayoub Misbahi,Sale Rabat-Salé-Kenitra Morocco,None,None,None,b'Webhelp',2%,2.6 years
+Hicham Taybi,Casablanca-Settat Morocco,None,None,None,b'Elucidate',20%,0.8 years
+Safouane Labbad,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b'INSEA',1%,7.8 years
+Mohamed Reda Dahdah,Tanger-Tetouan-Al Hoceima Morocco,Portfolio Management,Trading,Python,b'Deloitte',4%,4.3 years
+Abderahmane HAMDOUCHI,Rabat Rabat-Salé-Kenitra Morocco,Python,Hadoop,Framework Spring,b'None',None,None
+NKHAILI MARYAM,Casablanca Metropolitan Area,Automation,Script Shell,python et R,b'Orange Maroc',2%,8.8 years
+Soukaina Chaoui,Casablanca-Settat Morocco,MDX,Python,Hadoop,b'KF2YCONSULTING-MAROC',None,None
+Youness HABACH,Casablanca-Settat Morocco,Data Science,Machine Learning,Deep Learning,b'Berexia',11%,1.6 year
+Soukaina BOUKHAR,Morocco,Computer Science,Entrepreneurship,Python (Programming Language),b'Wafa Gestion',27%,2.2 years
+mohammed elgondafy,Fez Fès-Meknès Morocco,Machine learning,Big Data,Industry 4.0,b'IBM',1%,7.4 years
+OUSSAMA OUSSALAH,Rabat Rabat-Salé-Kenitra Morocco,Business Intelligence,Data Science,BIG DATA ECOSYSTEM,b'Mohammed V University in Rabat',7%,4.3 years
+Zouhair Elhadi,Casablanca-Settat Morocco,machine learning,deep learning,Python,b'None',None,None
+Said ABDEREMANE,Fez Fès-Meknès Morocco,Machine Learning,Python,Business Intelligence,b'Universit\xc3\xa9 Sorbonne Paris Nord',5%,1.8 year
+Souhail EL-GHAYAM,Casablanca Casablanca-Settat Morocco,None,None,None,b'EURAFRIC INFORMATION',4%,3.9 years
+Imane El Assari,Morocco,Python,Scrum,Apprentissage automatique,b'Masen',9%,3.8 years
+Houda Mouttalib,Taza Fès-Meknès Morocco,Microsoft Office,Développement de logiciel,Programmation web,b'CommonShare',None,None
+Salah-eddine BOUCETTA,Casablanca-Settat Morocco,Analyser les données,Création des modèles d'apprentissage automatique (supervisé, non supervisé),Création des CNN modèles pour objets localisation | classification,b'MYOPLA',14%,1.7 year
+yassine elmahi,Casablanca Casablanca-Settat Morocco,Java,Customer Service,Google Cloud Platform (GCP),b'None',None,None
+isaouy yassine,Marrakesh Marrakesh-Safi Morocco,Apprentissage automatique,Data Warehouse,Talend Open Studio,b'None',None,None
+Taoufik Moufakkir,Fès-Meknès Morocco,Machine Learning,AI,Deep Learning,b'buglab',None,None
+aymane elazhari,Casablanca-Settat Morocco,Python (Programming Language),Data Analysis,Data Analytics,b'None',None,None
+Zineb E.,Casablanca-Settat Morocco,Python,Machine Learning,Apache Spark,b'The Good Data Factory',None,None
+Adam EL BERGUI,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b"Ecole Nationale Sup\xc3\xa9rieure d'Informatique et d'Analyse des Syst\xc3\xa8mes - ENSIAS",-0%,2.3 years
+Ayoub ES-SWIDI,Casablanca-Settat Morocco,Java,Python,R,b"MINISTERE DE L'EDUCATION NATIONALE ET DE LA JEUNESSE",16%,1.6 year
+Nouhaila A.,Marrakesh Marrakesh-Safi Morocco,J2EE Web Services,AngularJS,Python,b'None',None,None
+Mouhsine AIT BELLA,Tanger-Tetouan-Al Hoceima Morocco,Ingénierie,Recherche,Formation,Faculty of Science and Technology Tangier,4%,4.4 years
+Abderrahman Jaize,Settat Casablanca-Settat Morocco,Big data,Data mining,Programmation,Tersea,6%,2.2 years
+Mohssine CHARQUI,Casablanca-Settat Morocco,Python,Simulations,R,BMCE Capital,8%,4.6 years
+Hassan Oulkhorf,Casablanca-Settat Morocco,Machine Learning,Data Science,Business Intelligence,École Supérieure des Affaires de Casablanca,None,None
+Douaa Fakhreddine,Casablanca Casablanca-Settat Morocco,None,None,None,Attijariwafa bank,2%,5.7 years
+Meryem Laâroussi,Morocco,Python/R,Machine Learning / Deep Learning,Artificial Intelligence (AI),ITSS,11%,2.8 years
+Youssef TADLAOUI,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,EURAFRIC INFORMATION,4%,3.9 years
+Yahia Khallouk,Morocco,None,None,None,IBM,1%,7.4 years
+Oumaima Zniber,Rabat Rabat-Salé-Kenitra Morocco,Oracle,BI,Data analysis,None,None,None
+Oumnia Hoummi,Casablanca-Settat Morocco,Python,Extraire, transformer, charger (ETL),Machine Learning,None,None,None
+Nada Ben-Lhachemi, PhD,Morocco,Python,Natural Language Processing (NLP),Deep Learning,OCP SOLUTIONS,21%,1.9 year
+Hicham HAMMOUCHI,Rabat Rabat-Salé-Kenitra Morocco,SQL,Microsoft SQL Server,Big data,Soft Centre,None,None
+Abdelkhalek EL GHALI,Casablanca-Settat Morocco,Deep Learning,Machine Learning,Python,Allianz Maroc,5%,2.8 years
+MOHAMMED JARROU,Casablanca Metropolitan Area,Python,Data Science,Optimisation,None,None,None
+Hajar BOUALAMIA,Morocco,Apache Kafka,Apache Spark,Cassandra,JP&CO,None,None
+Meryem BARKA,Sale Rabat-Salé-Kenitra Morocco,Machine Learning,Python,Deep Learning,Teal Technology Services (IBM & OCP JV),-5%,2.3 years
+Abdellatif EL MELIANI,Morocco,Python,Data Mining,machine learning,INTEGRYTIS,None,None
+Khadija A.,Rabat Rabat-Salé-Kenitra Morocco,Big data,Apache Spark,Scala,Institut National des Postes et Télécommunications,None,None
+Walid EL JILANI,Morocco,Big Data Analytics,Machine Learning,Business Intelligence,Sofrecom,-0%,3.8 years
+Mehdi A.,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,None,None,None
+Oussama Baroudi,Casablanca-Settat Morocco,Data Science,TensorFlow,Intelligence artificielle,Quinten,1%,2.4 years
+Ahmed LABBAALI,Casablanca Casablanca-Settat Morocco,None,None,None,Institut National des Postes et Télécommunications,None,None
+Ilyass Rahmouni,Morocco,Data Science,Python,Big Data,None,None,None
+SOUMIA IKISS,Morocco,Apprentissage automatique,Cloud Computing,Analyse de données,Sultan Moulay Slimane University,5%,4.7 years
+Fatima Ezzahra JARMOUNI,Casablanca-Settat Morocco,Big Data,Data Warehouse,Hadoop,Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS,-0%,2.3 years
+Amine Amrani,Rabat-Salé-Kenitra Morocco,English,Research,Problem Solving,None,None,None
+Asmaa NADIFIYINE,Casablanca Metropolitan Area,Science des données,Machine Learning,Traitement d’image et d’audio,MYOPLA,14%,1.7 year
+Soumia MAACHY,Morocco,None,None,None,ADIAS - IT Solutions & Services,6%,2.1 years
+El Houcine ES SANHAJI,Marrakesh-Safi Morocco,Laravel,JavaScript,PHP,Oracle,1%,6.4 years
+Basma Saad,Morocco,Data scientist,Web/mobile Developper,Ingénierie,Université Chouaïb Doukkali El Jadida,1%,6.8 years
+ISMAIL FAKIRI,Casablanca Casablanca-Settat Morocco,Big Data,Python,Administration de bases de données,NEARYOU CONSULTING,None,None
+Meryem LAOUINATE,Casablanca-Settat Morocco,None,None,None,None,None,None
+Maimouna Ezzaiar,Morocco,None,None,None,None,None,None
+AMINE RDIOUAT,Casablanca-Settat Morocco,Python,SQL,Oracle Database,SALAFIN GROUPE BMCE,3%,2.4 years
+Nouhaila EL KOUFI,Morocco,None,None,None,None,None,None
+Touria Benmira,Casablanca Casablanca-Settat Morocco,Python,Java,Visual Studio,Mohammed VI Polytechnic University,3%,1.8 year
+Ahmed Achlih,Rabat Rabat-Salé-Kenitra Morocco,Data Science,Big Data,Business Intelligence,None,None,None
+Ali BARA,Rabat-Salé-Kenitra Morocco,Recherche opérationnelle,Science des données,Analyse de données,Jet Contractors,5%,3.5 years
+iliass belqadi,Morocco,Analyse de données,Science des données,Apprentissage automatique,Henceforth,None,None
+Amine Haddou,Rabat Rabat-Salé-Kenitra Morocco,Microsoft Excel,Économétrie,Statistiques,LabelVie,5%,4.3 years
+Houssam Zouhri,Fès-Meknès Morocco,Apprentissage automatique,Exploration des données,deep learning,UM6P - Faculté de Gouvernance, Sciences Economiques et Sociales,30%,0.8 years
+El Mehdi MEDRANI,Morocco,Intelligence artificielle,Machine learning,Data science,CloudLink,None,None
+Safaà Askour,Morocco,Python,Artificial intelligence,Machine learning,Capgemini,3%,4 years
+Ahmed Loughribi,Casablanca Metropolitan Area,None,None,None,Payment Center For Africa - PCA,1%,2.3 years
+Haitam FOUDIL,Casablanca Metropolitan Area,None,None,None,Université Hassan II Mohammedia,3%,6.8 years
+El Mehdi Bouâmama,Casablanca-Settat Morocco,Python,TensorFlow,AngularJS,Skytrend,None,None
+Mohammed Lotf el ilah,Casablanca Casablanca-Settat Morocco,Machine Learning,Analyse de données,Python,INDATACORE,None,None
+sabah zoubir,Morocco,R,Analyses de données,Statistiques,Orange,2%,5.9 years
+EL MEHDI EL MILOUDI,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,None,None,None
+Chataoui hamza,Marrakesh-Safi Morocco,Machine Learning,Data Mining,Data Visualization,Mohammed VI Polytechnic University,3%,1.8 year
+Amine Abiaba,Casablanca-Settat Morocco,Machine Learning,Programmation web,Cloud Computing,INDATACORE,None,None
+EL Houcine Ouziz,Rabat-Salé-Kenitra Morocco,Java,SQL,PL/SQL,Sofrecom,-0%,3.8 years
+Salma Hamdoune,Casablanca-Settat Morocco,Statistiques,Machine Learning,Deep Learning,AgriEdge,None,None
+Nada TAKFAOUI,Fès-Meknès Morocco,machine learning,data mining,Python,None,None,None
+Ghita Anwar,Morocco,Elastic Stack (ELK),Angular 7,HTML,UNIFORCE informatique,4%,9.6 years
+Achraf El Maouaj,Sale Rabat-Salé-Kenitra Morocco,None,None,None,None,None,None
+Khaoula ELASMAI,Rabat-Salé-Kenitra Morocco,python,PHP,Java,None,None,None
+Salah-Eddine EL BAGHDADI,Casablanca Casablanca-Settat Morocco,Unity,Java,VHDL,AKUMEN IA (Valyans & AIOX Labs JV),None,None
+Fatima Ezzahra ADNIBI,Rabat-Salé-Kenitra Morocco,BI,Python (langage de programmation),Big data,None,None,None
+Naima EL-HAFED,Morocco,None,None,None,None,None,None
+bouchra el ouahabi,Casablanca Casablanca-Settat Morocco,None,None,None,ADIAS - IT Solutions & Services,6%,2.1 years
+Oussama N.,Casablanca Casablanca-Settat Morocco,Python,Data Mining,Text mining,None,None,None
+Chaanani Youness,Settat Metropolitan Area,Machine learning,Science des données,Java,INDATACORE,None,None
+Asmaa Errafique,Casablanca-Settat Morocco,java,PHP,Python,None,None,None
+Fatima zahra JOUALA,Morocco,None,None,None,None,None,None
+ILYAS GARNAOUI,Rabat Rabat-Salé-Kenitra Morocco,Analyse de données,Hibernate,Scrum,Vokaris,None,None
+Diab Zohair,Khouribga Province Béni Mellal-Khénifra Morocco,Analytical Skills,Machine Learning,Python (Programming Language),OCP S.A,3%,6 years
+Saloua ELALLAOUI,Rabat Metropolitan Area,Machine Learning,Analyses Big Data,Python,Office National des Chemins de Fer (ONCF),6%,2.8 years
+abdelilah marrouss,Marrakesh-Safi Morocco,Création de sites web,Conception de sites web mobiles,Conception front-end,Agence de référencement Weblinking.net,None,None
+Sara El omary,Marrakesh Marrakesh-Safi Morocco,None,None,None,None,None,None
+Salma BELKARKOR,Casablanca-Settat Morocco,Data Warehouse,Big Data,BI,OCP S.A,3%,6 years
+Ismail Bensouda Koraichi,Morocco,None,None,None,Artefact Africa,None,None
+Utsav Aggarwal,Bangalore Urban Karnataka India,Machine Learning,Artificial Intelligence (AI),Deep Learning,Oracle,1%,6.4 years
+mounir dameur,Rabat-Salé-Kenitra Morocco,Machine learning,Infographie,Programmation orientée objet (OOP),None,None,None
+Youness LAHMOUDI,Rabat Rabat-Salé-Kenitra Morocco,Data Mining,Machine Learning,Text Mining,Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS,None,None
+Abderrahim Oujbih,Morocco,R,Python,Finance,Freelancer.com,6%,2.4 years
+Isaac Faber Ph.D.,Pittsburgh Pennsylvania United States,Operations Research,Military Operations,Military,Army Artificial Intelligence (AI) Task Force,None,None
+OMAR AOURRAI,Morocco,Développement web,Big Data,Intelligence artificielle,INTELCIA,7%,2.8 years
+Ouissal TAIM,Rabat-Salé-Kenitra Morocco,None,None,None,D-AIM,6%,2.7 years
+SAMIA HRIRA,Morocco,None,None,None,EQUATORIAL COCA-COLA BOTTLING COMPANY,2%,5.6 years
+soukaina BOUKHLIFI,Rabat-Salé-Kenitra Morocco,Computer Vision,Python (langage de programmation),Text Mining,Mohammed V University in Rabat,7%,4.3 years
+Ayoub BERDEDDOUCH,Fès-Meknès Morocco,None,None,None,Upwork,5%,3.2 years
+Adib Khaffaji,Skhirate-Témara Prefecture Rabat-Salé-Kenitra Morocco,None,None,None,Corporate Software,9%,2 years
+Mohammed Tayor,Béni Mellal-Khénifra Morocco,None,None,None,Kaggle,7%,1.8 year
+Zahra ELMINOURI,Casablanca Casablanca-Settat Morocco,None,None,None,WomenTech Network,10%,1.1 year
+Zineb RAISS,Morocco,Machine Learning,Data Maining,IBM Big Insight,Orange Maroc,2%,8.8 years
+Souhail Bouketaya,Casablanca-Settat Morocco,Statistiques,Macroéconomie,Analyse de données,Observatoire Marocain de la TPME,None,None
+Anass Allaouzi,Rabat-Salé-Kenitra Morocco,None,None,None,STG Maroc,12%,2.6 years
+kamal amarouche,Casablanca-Settat Morocco,None,None,None,Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS,-0%,2.3 years
+Marouane BENAOUID,Casablanca Metropolitan Area,Machine Learning,Deep Learning,Pattern Recognition,TECH TOWN,None,None
+Zakaria ABRABRI,Casablanca-Settat Morocco,Apache Spark,Python,R,None,None,None
+Adnane DRIOUCHE,Settat Casablanca-Settat Morocco,Python,R,Analyse de données,Henceforth,None,None
+fadoua jaaba,Tangier Metropolitan Area,None,None,None,None,None,None
+Abdellah Bourar,Casablanca-Settat Morocco,Science des données,Apprentissage automatique,Statistiques,inwi,2%,5.7 years
+Mohamed Yahdhih SIDI,Ben Guerir Marrakesh-Safi Morocco,Ingénierie,Entrepreneuriat,Apprentissage automatique,b'None',None,None
+Hamza Lotf,Morocco,SQL,Java,UML,b'INVOLYS',1%,3.6 years
+Anissa ARFAOUI,Rabat Rabat-Salé-Kenitra Morocco,Python,Analyse de données,Science des données,b'D-AIM',5%,2.7 years
+Souhaib Hafidi,Morocco,Big data,BI,Data Warehouse,b'None',None,None
+Asmaa Erraki,Kénitra Province Rabat-Salé-Kenitra Morocco,Machine Learning,Hadoop,Python,b'Diligencia',-7%,5.4 years
+Rania Benhemou,Casablanca Metropolitan Area,SPSS,UML,PHP,b'Atos',1%,5.9 years
+Elmehdi BOUJOU,Marrakesh Marrakesh-Safi Morocco,Data Science,Machine Learning,Data Mining,b'Mohammed VI Polytechnic University',4%,1.7 year
+Youssef FAOUZI,Azilal Province Béni Mellal-Khénifra Morocco,None,None,None,b'Emines Junior Entreprise',-7%,1.2 year
+Abdellatif Ouboussekssou,Guelmim-Oued Noun Morocco,Data Science,Deep Learning,Convolutional Neural Networks (CNN),b'Kaggle',8%,1.8 year
+anass harcha,Casablanca-Settat Morocco,Java,Big data,Python,b'None',None,None
+ELGRENI Marwane,Rabat Rabat-Salé-Kenitra Morocco,SQL,Java,Python,b'None',None,None
+Fatima Ezzahra Bahmad,Kénitra Province Rabat-Salé-Kenitra Morocco,Data Mining,Cloud Computing,Analytics,b'Neoxia',8%,2.3 years
+Aboubakr Aakaou,Rabat Rabat-Salé-Kenitra Morocco,CV,Apache Kafka,Scala,b'None',None,None
+Nabila Oussoulous,Rabat-Salé-Kenitra Morocco,Java,php,sql,b"Ecole Nationale Sup\xc3\xa9rieure d'Informatique et d'Analyse des Syst\xc3\xa8mes - ENSIAS",-0%,2.3 years
+Fatima Zahra EL BARCHE,Sale Rabat-Salé-Kenitra Morocco,Python,Machine Learning,Medical Imaging,b'Inria',7%,3.6 years
+Anass Hsissi (Phd),Casablanca Metropolitan Area,Research,Data Analysis,Cognitive Science,b'T\xc3\xa9nor Group',-5%,2.3 years
+Mohammed Akallouch,Fès-Meknès Morocco,machine learning,Big data analytics,data analysis,b'DEVANTEC Ing\xc3\xa9nierie',None,None
+maguette thiam,Casablanca Casablanca-Settat Morocco,SQL,Tableau,Oracle SQL Developer,b'Societe Generale',1%,5.8 years
+Mohammed SABRI,Casablanca-Settat Morocco,Machine Learning,Analyse de données,Python,b'None',None,None
+Chaimaa Fahim,Morocco,PHP,PL/SQL,Java,b'CMR-Caisse Marocaine des retraites',11%,8.1 years
+Saad MOUMAD,Casablanca Metropolitan Area,None,None,None,b'OCP S.A',3%,6 years
+hamza boulhdoub,Casablanca-Settat Morocco,Python,R,C++,b'Dell Technologies',3%,5.3 years
+Maryem Agouzzal,Temara Rabat-Salé-Kenitra Morocco,Java,Python,WordPress,b'Wedigitalpro',14%,3 years
+Mohamed Mhaouach,Miknas Fès-Meknès Morocco,Data Warehousing,Big data,Data Mining,b'Accenture',4%,4.4 years
+Omar El Attari,Meknes Fès-Meknès Morocco,None,None,None,b'depf',None,None
+Oussama FASCA,Casablanca-Settat Morocco,Big Data,Apprentissage automatique,Python,b'Tersea',6%,2.2 years
+Khadija Benkirane,Morocco,Statistics,Econometrics,Statistical Modeling,b'Attijariwafa bank',2%,5.7 years
+Ayoub AKENNAF,Rabat Rabat-Salé-Kenitra Morocco,Teamwork,Software development.,Problem solving and logical thinking.,b'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research',13%,3.8 years
+Sara Idouch,Rabat Rabat-Salé-Kenitra Morocco,Python (Programming Language),SQL,Java,b'Promy',None,None
+Hajar Gharbi,Casablanca-Settat Morocco,Java,Python,C,b'xHub',16%,1.1 year
+Khaoula KABOURI,Kénitra Province Rabat-Salé-Kenitra Morocco,Hadoop,Analyses Big Data,Maching Learning,b'Sofrecom',-0%,3.8 years
+Hamza El Makrini,Fès-Meknès Morocco,Python (Programming Language),Keras,Deep Learning,b'Soft Centre',None,None
+Nezar EL IDRISSI MOUBTASSIM,Casablanca Casablanca-Settat Morocco,Analyse de données,Gestion de projet,Machine learning,b'Sofrecom Maroc',9%,1.7 year
+Zineb Bouziane Ouartini,Morocco,None,None,None,b'None',None,None
+Fatima El Barakaz,Casablanca-Settat Morocco,MySQL,UML,machine learning,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Elhoucine MASKOUR,Agadir Souss-Massa Morocco,JavaScript,C#,Data Analysis,b'Fiverr',8%,2.2 years
+Jihane ABDELKHALEK,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b'ARMA ENVIRONNEMENT',27%,1.1 year
+Outman Lekhal,Rabat-Salé-Kenitra Morocco,None,None,None,b'AFRICAWORK',None,None
+Ghita Belkasri,Morocco,Big Data,langage R,Apache Spark,b'None',None,None
+Mehdi Abouhane,Ben Guerir Marrakesh-Safi Morocco,HTML,JavaScript,Management,b'Groupe COSUMAR',10%,3.8 years
+Hamza Bentahar,Morocco,Data Mining,Python (Programming Language),php,b'Leyton',9%,1.8 year
+Abdelhamid Techtach,Morocco,Python,Apprentissage automatique,Statistiques,b'INSEA',1%,7.8 years
+CHENTOUF Aymen,Casablanca Metropolitan Area,None,None,None,b"Ecole Nationale Sup\xc3\xa9rieure d'Informatique et d'Analyse des Syst\xc3\xa8mes - ENSIAS",-0%,2.3 years
+Saad Belaouad,Casablanca-Settat Morocco,SQL,Python (Programming Language),Java,b'Orange Maroc',2%,8.8 years
+Houda Bouraqqadi,Fez Fès-Meknès Morocco,C,Python,C++,b'None',None,None
+Loubna Jadib,Casablanca-Settat Morocco,Lean Management,data analysis,business intelligence,b'Soci\xc3\xa9t\xc3\xa9 G\xc3\xa9n\xc3\xa9rale Maroc',3%,5.2 years
+Hanane Ouhammouch,Morocco,Tableau,MySQL,Google BigQuery,b'07ZR.com',None,None
+Soufiane MHADER,Casablanca Casablanca-Settat Morocco,R,C++,Modèle de taux,b'BMCE Capital',8%,4.6 years
+chaima techa,Morocco,Python,Machine learning,Natural Language Processing (NLP),b'Big Data Analytics Centre (BIDAC), UAEU',None,None
+Houda El alami,Casablanca Casablanca-Settat Morocco,Data Analysis,Intelligence artificielle (IA),Traitement de l'image,b'None',None,None
+Lamrani Alaoui Abderrahman,Rabat Rabat-Salé-Kenitra Morocco,Statistiques,Modélisation des données,R,b"Institut National de Statistique et d'Economie Appliqu\xc3\xa9e (INSEA)",None,None
+Fatima Ezzahra EL KARKACHI,Marrakesh-Safi Morocco,HTML,C++,PHP,b'None',None,None
+Bouchra Esserti,Morocco,Business intelligence,Data Warehouse,Exploration des données,b"Minist\xc3\xa8re de l'\xc3\xa9conomie et des Finances",2%,5.7 years
+Nozha BASSA,Casablanca Casablanca-Settat Morocco,Machine Learning,Artificial Intelligence (AI),Data Analysis,b'Medias24',None,None
+Samir Dlim,Morocco,Python,R,Apprentissage automatique,b'Confidential',19%,1.5 year
+Safouan ES-SEBBAR,Casablanca-Settat Morocco,Big data,Hadoop,ETL Tools,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Abdessamad (PhD student at Med V University) Ezzou,Sale Rabat-Salé-Kenitra Morocco,None,None,None,b'Novancy One |\xc2\xa0Digital Talent Recruitment',6%,2.4 years
+Amal BELATIK,Fès-Meknès Morocco,Deep learning,Python,Informatique décisionnelle,b'None',None,None
+Rhizlane Flisse,Casablanca Metropolitan Area,Big Data,Python,R,b'EURAFRIC INFORMATION',4%,3.9 years
+sara chater,Rabat-Salé-Kenitra Morocco,Leadership,Gestion d’équipe,Microsoft Excel,b'Universit\xc3\xa9 Sidi Mohammed Ben Abdellah-F\xc3\xa8s',12%,4.1 years
+Adnane El Amrani,Casablanca Metropolitan Area,Marketing,Communication marketing,Communication interne,b'JTI (Japan Tobacco International)',2%,4.8 years
+khaoula rabih,Morocco,Python,NLP,Computer vision,b'None',None,None
+Houda El omrani,Fès-Meknès Morocco,Science des données,Intelligence artificielle,Python,b'Universit\xc3\xa9 Sidi Mohammed Ben Abdellah-F\xc3\xa8s',12%,4.1 years
+Mohammed BASTA,Marrakesh Marrakesh-Safi Morocco,None,None,None,b'None',None,None
+Hamza Hamdani,Casablanca-Settat Morocco,Machine Learning,business intelligence,Science des données,b'Facult\xc3\xa9 des Sciences Semlalia Marrakech',4%,5.7 years
+Achraf Oussidi,Rabat Metropolitan Area,None,None,None,b'The Good Data Factory',None,None
+Ahmed Tijane,Morocco,GitHub,NoSQL,Data Warehouse,b'EURAFRIC INFORMATION',4%,3.9 years
+Hajer MOUNTACIF,Casablanca-Settat Morocco,Machine Learning,Spark,Cassandra,b'S2M',3%,4.9 years
+ANAS YASSIR,Casablanca-Settat Morocco,Statiscal modeling,Machine Learning Algorithms,Data Analysis,b'None',None,None
+Meryeme Rhila,Casablanca Metropolitan Area,machine learning,Analyse de données,business intelligence,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Ayoub Misbahi,Sale Rabat-Salé-Kenitra Morocco,None,None,None,b'Webhelp',2%,2.6 years
+Hicham Taybi,Casablanca-Settat Morocco,None,None,None,b'Elucidate',20%,0.8 years
+Safouane Labbad,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b'INSEA',1%,7.8 years
+Mohamed Reda Dahdah,Tanger-Tetouan-Al Hoceima Morocco,Portfolio Management,Trading,Python,b'Deloitte',4%,4.3 years
+Abderahmane HAMDOUCHI,Rabat Rabat-Salé-Kenitra Morocco,Python,Hadoop,Framework Spring,b'None',None,None
+NKHAILI MARYAM,Casablanca Metropolitan Area,Automation,Script Shell,python et R,b'Orange Maroc',2%,8.8 years
+Soukaina Chaoui,Casablanca-Settat Morocco,MDX,Python,Hadoop,b'KF2YCONSULTING-MAROC',None,None
+Youness HABACH,Casablanca-Settat Morocco,Data Science,Machine Learning,Deep Learning,b'Berexia',11%,1.6 year
+Soukaina BOUKHAR,Morocco,Computer Science,Entrepreneurship,Python (Programming Language),b'Wafa Gestion',27%,2.2 years
+mohammed elgondafy,Fez Fès-Meknès Morocco,Machine learning,Big Data,Industry 4.0,b'IBM',1%,7.4 years
+OUSSAMA OUSSALAH,Rabat Rabat-Salé-Kenitra Morocco,Business Intelligence,Data Science,BIG DATA ECOSYSTEM,b'Mohammed V University in Rabat',7%,4.3 years
+Zouhair Elhadi,Casablanca-Settat Morocco,machine learning,deep learning,Python,b'None',None,None
+Said ABDEREMANE,Fez Fès-Meknès Morocco,Machine Learning,Python,Business Intelligence,b'Universit\xc3\xa9 Sorbonne Paris Nord',5%,1.8 year
+Souhail EL-GHAYAM,Casablanca Casablanca-Settat Morocco,None,None,None,b'EURAFRIC INFORMATION',4%,3.9 years
+Imane El Assari,Morocco,Python,Scrum,Apprentissage automatique,b'Masen',9%,3.8 years
+Houda Mouttalib,Taza Fès-Meknès Morocco,Microsoft Office,Développement de logiciel,Programmation web,b'CommonShare',None,None
+Salah-eddine BOUCETTA,Casablanca-Settat Morocco,Analyser les données,Création des modèles d'apprentissage automatique (supervisé, non supervisé),Création des CNN modèles pour objets localisation | classification,b'MYOPLA',14%,1.7 year
+yassine elmahi,Casablanca Casablanca-Settat Morocco,Java,Customer Service,Google Cloud Platform (GCP),b'None',None,None
+isaouy yassine,Marrakesh Marrakesh-Safi Morocco,Apprentissage automatique,Data Warehouse,Talend Open Studio,b'None',None,None
+Taoufik Moufakkir,Fès-Meknès Morocco,Machine Learning,AI,Deep Learning,b'buglab',None,None
+aymane elazhari,Casablanca-Settat Morocco,Python (Programming Language),Data Analysis,Data Analytics,b'None',None,None
+Zineb E.,Casablanca-Settat Morocco,Python,Machine Learning,Apache Spark,b'The Good Data Factory',None,None
+Adam EL BERGUI,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b"Ecole Nationale Sup\xc3\xa9rieure d'Informatique et d'Analyse des Syst\xc3\xa8mes - ENSIAS",-0%,2.3 years
+Ayoub ES-SWIDI,Casablanca-Settat Morocco,Java,Python,R,b"MINISTERE DE L'EDUCATION NATIONALE ET DE LA JEUNESSE",16%,1.6 year
+Nouhaila A.,Marrakesh Marrakesh-Safi Morocco,J2EE Web Services,AngularJS,Python,b'None',None,None
+hamza boulhdoub,Casablanca-Settat Morocco,Python,R,C++,b'Dell Technologies',3%,5.3 years
+Maryem Agouzzal,Temara Rabat-Salé-Kenitra Morocco,Java,Python,WordPress,b'Wedigitalpro',14%,3 years
+Mohamed Mhaouach,Miknas Fès-Meknès Morocco,Data Warehousing,Big data,Data Mining,b'Accenture',4%,4.4 years
+Omar El Attari,Meknes Fès-Meknès Morocco,None,None,None,b'depf',None,None
+Oussama FASCA,Casablanca-Settat Morocco,Big Data,Apprentissage automatique,Python,b'Tersea',6%,2.2 years
+Khadija Benkirane,Morocco,Statistics,Econometrics,Statistical Modeling,b'Attijariwafa bank',2%,5.7 years
+Ayoub AKENNAF,Rabat Rabat-Salé-Kenitra Morocco,Teamwork,Software development.,Problem solving and logical thinking.,b'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research',13%,3.8 years
+Sara Idouch,Rabat Rabat-Salé-Kenitra Morocco,Python (Programming Language),SQL,Java,b'Promy',None,None
+Hajar Gharbi,Casablanca-Settat Morocco,Java,Python,C,b'xHub',16%,1.1 year
+Khaoula KABOURI,Kénitra Province Rabat-Salé-Kenitra Morocco,Hadoop,Analyses Big Data,Maching Learning,b'Sofrecom',-0%,3.8 years
+Hamza El Makrini,Fès-Meknès Morocco,Python (Programming Language),Keras,Deep Learning,b'Soft Centre',None,None
+Nezar EL IDRISSI MOUBTASSIM,Casablanca Casablanca-Settat Morocco,Analyse de données,Gestion de projet,Machine learning,b'Sofrecom Maroc',9%,1.7 year
+Zineb Bouziane Ouartini,Morocco,None,None,None,b'None',None,None
+Fatima El Barakaz,Casablanca-Settat Morocco,MySQL,UML,machine learning,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Elhoucine MASKOUR,Agadir Souss-Massa Morocco,JavaScript,C#,Data Analysis,b'Fiverr',8%,2.2 years
+Jihane ABDELKHALEK,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b'ARMA ENVIRONNEMENT',27%,1.1 year
+Outman Lekhal,Rabat-Salé-Kenitra Morocco,None,None,None,b'AFRICAWORK',None,None
+Ghita Belkasri,Morocco,Big Data,langage R,Apache Spark,b'None',None,None
+Mehdi Abouhane,Ben Guerir Marrakesh-Safi Morocco,HTML,JavaScript,Management,b'Groupe COSUMAR',10%,3.8 years
+Hamza Bentahar,Morocco,Data Mining,Python (Programming Language),php,b'Leyton',9%,1.8 year
+Abdelhamid Techtach,Morocco,Python,Apprentissage automatique,Statistiques,b'INSEA',1%,7.8 years
+CHENTOUF Aymen,Casablanca Metropolitan Area,None,None,None,b"Ecole Nationale Sup\xc3\xa9rieure d'Informatique et d'Analyse des Syst\xc3\xa8mes - ENSIAS",-0%,2.3 years
+Saad Belaouad,Casablanca-Settat Morocco,SQL,Python (Programming Language),Java,b'Orange Maroc',2%,8.8 years
+Houda Bouraqqadi,Fez Fès-Meknès Morocco,C,Python,C++,b'None',None,None
+Loubna Jadib,Casablanca-Settat Morocco,Lean Management,data analysis,business intelligence,b'Soci\xc3\xa9t\xc3\xa9 G\xc3\xa9n\xc3\xa9rale Maroc',3%,5.2 years
+Hanane Ouhammouch,Morocco,Tableau,MySQL,Google BigQuery,b'07ZR.com',None,None
+Soufiane MHADER,Casablanca Casablanca-Settat Morocco,R,C++,Modèle de taux,b'BMCE Capital',8%,4.6 years
+chaima techa,Morocco,Python,Machine learning,Natural Language Processing (NLP),b'Big Data Analytics Centre (BIDAC), UAEU',None,None
+Houda El alami,Casablanca Casablanca-Settat Morocco,Data Analysis,Intelligence artificielle (IA),Traitement de l'image,b'None',None,None
+Lamrani Alaoui Abderrahman,Rabat Rabat-Salé-Kenitra Morocco,Statistiques,Modélisation des données,R,b"Institut National de Statistique et d'Economie Appliqu\xc3\xa9e (INSEA)",None,None
+Fatima Ezzahra EL KARKACHI,Marrakesh-Safi Morocco,HTML,C++,PHP,b'None',None,None
+chaima techa,Morocco,Python,Machine learning,Natural Language Processing (NLP),b'Big Data Analytics Centre (BIDAC), UAEU',None,None
+Houda El alami,Casablanca Casablanca-Settat Morocco,Data Analysis,Intelligence artificielle (IA),Traitement de l'image,b'None',None,None
+Lamrani Alaoui Abderrahman,Rabat Rabat-Salé-Kenitra Morocco,Statistiques,Modélisation des données,R,b"Institut National de Statistique et d'Economie Appliqu\xc3\xa9e (INSEA)",None,None
+Fatima Ezzahra EL KARKACHI,Marrakesh-Safi Morocco,HTML,C++,PHP,b'None',None,None
+Bouchra Esserti,Morocco,Business intelligence,Data Warehouse,Exploration des données,b"Minist\xc3\xa8re de l'\xc3\xa9conomie et des Finances",2%,5.7 years
+Nozha BASSA,Casablanca Casablanca-Settat Morocco,Machine Learning,Artificial Intelligence (AI),Data Analysis,b'Medias24',None,None
+Samir Dlim,Morocco,Python,R,Apprentissage automatique,b'Confidential',19%,1.5 year
+Safouan ES-SEBBAR,Casablanca-Settat Morocco,Big data,Hadoop,ETL Tools,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Abdessamad (PhD student at Med V University) Ezzou,Sale Rabat-Salé-Kenitra Morocco,None,None,None,b'Novancy One |\xc2\xa0Digital Talent Recruitment',6%,2.4 years
+Amal BELATIK,Fès-Meknès Morocco,Deep learning,Python,Informatique décisionnelle,b'None',None,None
+Rhizlane Flisse,Casablanca Metropolitan Area,Big Data,Python,R,b'EURAFRIC INFORMATION',4%,3.9 years
+sara chater,Rabat-Salé-Kenitra Morocco,Leadership,Gestion d’équipe,Microsoft Excel,b'Universit\xc3\xa9 Sidi Mohammed Ben Abdellah-F\xc3\xa8s',12%,4.1 years
+Adnane El Amrani,Casablanca Metropolitan Area,Marketing,Communication marketing,Communication interne,b'JTI (Japan Tobacco International)',2%,4.8 years
+khaoula rabih,Morocco,Python,NLP,Computer vision,b'None',None,None
+Houda El omrani,Fès-Meknès Morocco,Science des données,Intelligence artificielle,Python,b'Universit\xc3\xa9 Sidi Mohammed Ben Abdellah-F\xc3\xa8s',12%,4.1 years
+Mohammed BASTA,Marrakesh Marrakesh-Safi Morocco,None,None,None,b'None',None,None
+Hamza Hamdani,Casablanca-Settat Morocco,Machine Learning,business intelligence,Science des données,b'Facult\xc3\xa9 des Sciences Semlalia Marrakech',4%,5.7 years
+Achraf Oussidi,Rabat Metropolitan Area,None,None,None,b'The Good Data Factory',None,None
+Ahmed Tijane,Morocco,GitHub,NoSQL,Data Warehouse,b'EURAFRIC INFORMATION',4%,3.9 years
+Hajer MOUNTACIF,Casablanca-Settat Morocco,Machine Learning,Spark,Cassandra,b'S2M',3%,4.9 years
+ANAS YASSIR,Casablanca-Settat Morocco,Statiscal modeling,Machine Learning Algorithms,Data Analysis,b'None',None,None
+Meryeme Rhila,Casablanca Metropolitan Area,machine learning,Analyse de données,business intelligence,b'Avito.ma - Frontier Digital Ventures',1%,2.4 years
+Ayoub Misbahi,Sale Rabat-Salé-Kenitra Morocco,None,None,None,b'Webhelp',2%,2.6 years
+Hicham Taybi,Casablanca-Settat Morocco,None,None,None,b'Elucidate',20%,0.8 years
+Safouane Labbad,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b'INSEA',1%,7.8 years
+Mohamed Reda Dahdah,Tanger-Tetouan-Al Hoceima Morocco,Portfolio Management,Trading,Python,b'Deloitte',4%,4.3 years
+Abderahmane HAMDOUCHI,Rabat Rabat-Salé-Kenitra Morocco,Python,Hadoop,Framework Spring,b'None',None,None
+NKHAILI MARYAM,Casablanca Metropolitan Area,Automation,Script Shell,python et R,b'Orange Maroc',2%,8.8 years
+Soukaina Chaoui,Casablanca-Settat Morocco,MDX,Python,Hadoop,b'KF2YCONSULTING-MAROC',None,None
+Youness HABACH,Casablanca-Settat Morocco,Data Science,Machine Learning,Deep Learning,b'Berexia',11%,1.6 year
+Soukaina BOUKHAR,Morocco,Computer Science,Entrepreneurship,Python (Programming Language),b'Wafa Gestion',27%,2.2 years
+mohammed elgondafy,Fez Fès-Meknès Morocco,Machine learning,Big Data,Industry 4.0,b'IBM',1%,7.4 years
+OUSSAMA OUSSALAH,Rabat Rabat-Salé-Kenitra Morocco,Business Intelligence,Data Science,BIG DATA ECOSYSTEM,b'Mohammed V University in Rabat',7%,4.3 years
+Zouhair Elhadi,Casablanca-Settat Morocco,machine learning,deep learning,Python,b'None',None,None
+Said ABDEREMANE,Fez Fès-Meknès Morocco,Machine Learning,Python,Business Intelligence,b'Universit\xc3\xa9 Sorbonne Paris Nord',5%,1.8 year
+Souhail EL-GHAYAM,Casablanca Casablanca-Settat Morocco,None,None,None,b'EURAFRIC INFORMATION',4%,3.9 years
+Imane El Assari,Morocco,Python,Scrum,Apprentissage automatique,b'Masen',9%,3.8 years
+Houda Mouttalib,Taza Fès-Meknès Morocco,Microsoft Office,Développement de logiciel,Programmation web,b'CommonShare',None,None
+Salah-eddine BOUCETTA,Casablanca-Settat Morocco,Analyser les données,Création des modèles d'apprentissage automatique (supervisé, non supervisé),Création des CNN modèles pour objets localisation | classification,b'MYOPLA',14%,1.7 year
+yassine elmahi,Casablanca Casablanca-Settat Morocco,Java,Customer Service,Google Cloud Platform (GCP),b'None',None,None
+isaouy yassine,Marrakesh Marrakesh-Safi Morocco,Apprentissage automatique,Data Warehouse,Talend Open Studio,b'None',None,None
+Taoufik Moufakkir,Fès-Meknès Morocco,Machine Learning,AI,Deep Learning,b'buglab',None,None
+aymane elazhari,Casablanca-Settat Morocco,Python (Programming Language),Data Analysis,Data Analytics,b'None',None,None
+Zineb E.,Casablanca-Settat Morocco,Python,Machine Learning,Apache Spark,b'The Good Data Factory',None,None
+Adam EL BERGUI,Rabat Rabat-Salé-Kenitra Morocco,None,None,None,b"Ecole Nationale Sup\xc3\xa9rieure d'Informatique et d'Analyse des Syst\xc3\xa8mes - ENSIAS",-0%,2.3 years
+Ayoub ES-SWIDI,Casablanca-Settat Morocco,Java,Python,R,b"MINISTERE DE L'EDUCATION NATIONALE ET DE LA JEUNESSE",16%,1.6 year
+Nouhaila A.,Marrakesh Marrakesh-Safi Morocco,J2EE Web Services,AngularJS,Python,b'None',None,None
+Mouhsine AIT BELLA,Tanger-Tetouan-Al Hoceima Morocco,Ingénierie,Recherche,Formation,Faculty of Science and Technology Tangier,4%,4.4 years
